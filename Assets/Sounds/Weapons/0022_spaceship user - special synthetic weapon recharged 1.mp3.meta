@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/Weapons/0022_spaceship user - special synthetic weapon recharged 1.mp3.meta
+guid: 1f9bb407ba4a1dc478c2c47890cb2f48
+timeCreated: 1434438998
+=======
+guid: 9488a3c4ee0e294429d1662a5e77fce0
+timeCreated: 1434438299
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/Weapons/0022_spaceship user - special synthetic weapon recharged 1.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

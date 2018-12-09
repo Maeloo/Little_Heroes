@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/Impact/0022_spaceship user - large impact with shields disabled metallic hit big.mp3.meta
+guid: cc96999d351b6b24cb4d884978353ea1
+timeCreated: 1434439026
+=======
+guid: 0c784a79ce5830d4e830b372c828ca7e
+timeCreated: 1434438282
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/Impact/0022_spaceship user - large impact with shields disabled metallic hit big.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

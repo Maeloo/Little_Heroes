@@ -1,0 +1,60 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: shield.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:38e49077da92e39bfbbc8926b2277855:317da763ae704cfbb5e015ae36a9fb73:68e048262e09dedbf29363e3350a0dae$
+#
+
+arme_bouclier_HD_00000;2;1798;248;248;0.5;0.5
+arme_bouclier_HD_00001;252;1798;248;248;0.5;0.5
+arme_bouclier_HD_00002;502;1798;248;248;0.5;0.5
+arme_bouclier_HD_00003;752;1798;248;248;0.5;0.5
+arme_bouclier_HD_00004;1002;1798;248;248;0.5;0.5
+arme_bouclier_HD_00005;1252;1798;248;248;0.5;0.5
+arme_bouclier_HD_00006;1502;1798;248;248;0.5;0.5
+arme_bouclier_HD_00007;1752;1798;248;248;0.5;0.5
+arme_bouclier_HD_00008;2;1548;248;248;0.5;0.5
+arme_bouclier_HD_00009;252;1548;248;248;0.5;0.5
+arme_bouclier_HD_00010;502;1548;248;248;0.5;0.5
+arme_bouclier_HD_00011;752;1548;248;248;0.5;0.5
+arme_bouclier_HD_00012;1002;1548;248;248;0.5;0.5
+arme_bouclier_HD_00013;1252;1548;248;248;0.5;0.5
+arme_bouclier_HD_00014;1502;1548;248;248;0.5;0.5
+arme_bouclier_HD_00015;1752;1548;248;248;0.5;0.5
+arme_bouclier_HD_00016;2;1298;248;248;0.5;0.5
+arme_bouclier_HD_00017;252;1298;248;248;0.5;0.5
+arme_bouclier_HD_00018;502;1298;248;248;0.5;0.5
+arme_bouclier_HD_00019;752;1298;248;248;0.5;0.5
+arme_bouclier_HD_00020;1002;1298;248;248;0.5;0.5
+arme_bouclier_HD_00021;1252;1298;248;248;0.5;0.5
+arme_bouclier_HD_00022;1502;1298;248;248;0.5;0.5
+arme_bouclier_HD_00023;1752;1298;248;248;0.5;0.5
+arme_bouclier_HD_00024;2;1048;248;248;0.5;0.5
+arme_bouclier_HD_00025;252;1048;248;248;0.5;0.5
+arme_bouclier_HD_00026;502;1048;248;248;0.5;0.5
+arme_bouclier_HD_00027;752;1048;248;248;0.5;0.5
+arme_bouclier_HD_00028;1002;1048;248;248;0.5;0.5
+arme_bouclier_HD_00029;1252;1048;248;248;0.5;0.5
+arme_bouclier_HD_00030;1502;1048;248;248;0.5;0.5
+arme_bouclier_HD_00031;1752;1048;248;248;0.5;0.5
+arme_bouclier_HD_00032;2;798;248;248;0.5;0.5
+arme_bouclier_HD_00033;252;798;248;248;0.5;0.5
+arme_bouclier_HD_00034;502;798;248;248;0.5;0.5
+arme_bouclier_HD_00035;752;798;248;248;0.5;0.5
+arme_bouclier_HD_00036;1002;798;248;248;0.5;0.5
+arme_bouclier_HD_00037;1252;798;248;248;0.5;0.5
+arme_bouclier_HD_00038;1502;798;248;248;0.5;0.5
+arme_bouclier_HD_00039;1752;798;248;248;0.5;0.5
+arme_bouclier_HD_00040;2;548;248;248;0.5;0.5
+arme_bouclier_HD_00041;252;548;248;248;0.5;0.5
+arme_bouclier_HD_00042;502;548;248;248;0.5;0.5
+arme_bouclier_HD_00043;752;548;248;248;0.5;0.5
+arme_bouclier_HD_00044;1002;548;248;248;0.5;0.5
+arme_bouclier_HD_00045;1252;548;248;248;0.5;0.5
+arme_bouclier_HD_00046;1502;548;248;248;0.5;0.5
+arme_bouclier_HD_00047;1752;548;248;248;0.5;0.5
+arme_bouclier_HD_00048;2;298;248;248;0.5;0.5
+arme_bouclier_HD_00049;252;298;248;248;0.5;0.5

@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: lace2.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:77f443d476d929d0f8b1348389235d82:a3da60019f04c54c12c5424beebd29a0:910552b8542835ff01616cefc558d18e$
+#
+
+ennemi_glace_nv2_HD_00000;2;1646;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00001;404;1646;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00002;806;1646;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00003;1208;1646;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00004;1610;1646;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00005;2;1244;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00006;404;1244;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00007;806;1244;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00008;1208;1244;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00009;1610;1244;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00010;2;842;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00011;404;842;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00012;806;842;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00013;1208;842;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00014;1610;842;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00015;2;440;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00016;404;440;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00017;806;440;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00018;1208;440;400;400;0.5;0.5
+ennemi_glace_nv2_HD_00019;1610;440;400;400;0.5;0.5

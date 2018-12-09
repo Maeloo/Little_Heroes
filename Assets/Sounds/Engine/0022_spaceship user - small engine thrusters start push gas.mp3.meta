@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/Engine/0022_spaceship user - small engine thrusters start push gas.mp3.meta
+guid: 0b32a48ddf95ce649a2ec691969bf000
+timeCreated: 1434438994
+=======
+guid: b055cf921c64e3b42be7ad3256afd8fb
+timeCreated: 1434438302
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/Engine/0022_spaceship user - small engine thrusters start push gas.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

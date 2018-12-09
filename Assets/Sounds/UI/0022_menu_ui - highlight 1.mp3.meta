@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/UI/0022_menu_ui - highlight 1.mp3.meta
+guid: 50509100030ef794285ce7818d91a273
+timeCreated: 1434439006
+=======
+guid: 8ea5984029fceb046ab321b709415419
+timeCreated: 1434438299
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/UI/0022_menu_ui - highlight 1.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

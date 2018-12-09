@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 1f810e27aafe36b40b6afddfbb7470cb
+timeCreated: 1434049612
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dmg2_0
+    21300002: dmg2_1
+    21300004: dmg2_2
+    21300006: dmg2_3
+    21300008: dmg2_4
+    21300010: dmg2_5
+    21300012: dmg2_6
+    21300014: dmg2_7
+    21300016: dmg2_8
+    21300018: dmg2_9
+    21300020: dmg2_10
+    21300022: dmg2_11
+    21300024: dmg2_12
+    21300026: dmg2_13
+    21300028: dmg2_14
+    21300030: dmg2_15
+    21300032: dmg2_16
+    21300034: dmg2_17
+    21300036: dmg2_18
+    21300038: dmg2_19
+    21300040: dmg2_20
+    21300042: dmg2_21
+    21300044: dmg2_22
+    21300046: dmg2_23
+    21300048: dmg2_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dmg2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 844
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 844
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 844
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 844
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 844
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 664
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 664
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 664
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 664
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 664
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 484
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 484
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 484
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 484
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 484
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 304
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 304
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 304
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_19
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 304
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 124
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 124
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_23
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 124
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dmg2_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 124
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

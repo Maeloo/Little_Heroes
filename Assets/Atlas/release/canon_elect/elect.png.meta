@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: 4b4372e56abdde74198cd71941743439
+timeCreated: 1433840452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elect_0
+    21300002: elect_1
+    21300004: elect_2
+    21300006: elect_3
+    21300008: elect_4
+    21300010: elect_5
+    21300012: elect_6
+    21300014: elect_7
+    21300016: elect_8
+    21300018: elect_9
+    21300020: elect_10
+    21300022: elect_11
+    21300024: elect_12
+    21300026: elect_13
+    21300028: elect_14
+    21300030: elect_15
+    21300032: elect_16
+    21300034: elect_17
+    21300036: elect_18
+    21300038: elect_19
+    21300040: elect_20
+    21300042: elect_21
+    21300044: elect_22
+    21300046: elect_23
+    21300048: elect_24
+    21300050: elect_25
+    21300052: elect_26
+    21300054: elect_27
+    21300056: elect_28
+    21300058: elect_29
+    21300060: elect_30
+    21300062: elect_31
+    21300064: elect_32
+    21300066: elect_33
+    21300068: elect_34
+    21300070: elect_35
+    21300072: elect_36
+    21300074: elect_37
+    21300076: elect_38
+    21300078: elect_39
+    21300080: elect_40
+    21300082: elect_41
+    21300084: elect_42
+    21300086: elect_43
+    21300088: elect_44
+    21300090: elect_45
+    21300092: elect_46
+    21300094: elect_47
+    21300096: elect_48
+    21300098: elect_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: elect_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_5
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_6
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_7
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_12
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_13
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_14
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_15
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_20
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_21
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_22
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_23
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_28
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_29
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_30
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_31
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_33
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_35
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_36
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_37
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_38
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_39
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_42
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_44
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_45
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_46
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_47
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elect_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

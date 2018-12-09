@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/Engine/0022_spaceship user - turbo boost large.mp3.meta
+guid: 1e0a8d9c1be5dc54ca462bea43cc7b5f
+timeCreated: 1434438997
+=======
+guid: 05c351474e628a54985345bc9464d679
+timeCreated: 1434438281
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/Engine/0022_spaceship user - turbo boost large.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

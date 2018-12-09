@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: fe8e9106d073a134e8e65d3ff40b1666
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crystal_ahead_0
+    21300002: crystal_ahead_1
+    21300004: crystal_ahead_2
+    21300006: crystal_ahead_3
+    21300008: crystal_ahead_4
+    21300010: crystal_ahead_5
+    21300012: crystal_ahead_6
+    21300014: crystal_ahead_7
+    21300016: crystal_ahead_8
+    21300018: crystal_ahead_9
+    21300020: crystal_ahead_10
+    21300022: crystal_ahead_11
+    21300024: crystal_ahead_12
+    21300026: crystal_ahead_13
+    21300028: crystal_ahead_14
+    21300030: crystal_ahead_15
+    21300032: crystal_ahead_16
+    21300034: crystal_ahead_17
+    21300036: crystal_ahead_18
+    21300038: crystal_ahead_19
+    21300040: crystal_ahead_20
+    21300042: crystal_ahead_21
+    21300044: crystal_ahead_22
+    21300046: crystal_ahead_23
+    21300048: crystal_ahead_24
+    21300050: crystal_ahead_25
+    21300052: crystal_ahead_26
+    21300054: crystal_ahead_27
+    21300056: crystal_ahead_28
+    21300058: crystal_ahead_29
+    21300060: crystal_ahead_30
+    21300062: crystal_ahead_31
+    21300064: crystal_ahead_32
+    21300066: crystal_ahead_33
+    21300068: crystal_ahead_34
+    21300070: crystal_ahead_35
+    21300072: crystal_ahead_36
+    21300074: crystal_ahead_37
+    21300076: crystal_ahead_38
+    21300078: crystal_ahead_39
+    21300080: crystal_ahead_40
+    21300082: crystal_ahead_41
+    21300084: crystal_ahead_42
+    21300086: crystal_ahead_43
+    21300088: crystal_ahead_44
+    21300090: crystal_ahead_45
+    21300092: crystal_ahead_46
+    21300094: crystal_ahead_47
+    21300096: crystal_ahead_48
+    21300098: crystal_ahead_49
+    21300100: crystal_ahead_50
+    21300102: crystal_ahead_51
+    21300104: crystal_ahead_52
+    21300106: crystal_ahead_53
+    21300108: crystal_ahead_54
+    21300110: crystal_ahead_55
+    21300112: crystal_ahead_56
+    21300114: crystal_ahead_57
+    21300116: crystal_ahead_58
+    21300118: crystal_ahead_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: crystal_ahead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 906
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 906
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 906
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 906
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 906
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_6
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 906
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 906
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 788
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 788
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 788
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 788
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 788
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 788
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 788
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 670
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 670
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 670
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 670
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 670
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 670
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_23
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 670
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 552
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 552
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 552
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 552
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 552
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_30
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 552
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_31
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 552
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_33
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 434
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 434
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 434
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 434
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_37
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 434
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_38
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 434
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_39
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 434
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_41
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 316
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_42
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 316
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 316
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_44
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 316
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_45
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 316
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_46
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 316
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_47
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 316
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_49
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 198
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_50
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 198
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 198
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 198
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_53
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 198
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_54
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 198
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_55
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 198
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_57
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 80
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 80
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crystal_ahead_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 80
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

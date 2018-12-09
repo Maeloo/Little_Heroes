@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: dadf44cc6a6f7e444af72d6e136a8f75
+timeCreated: 1433858550
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lace2_0
+    21300002: lace2_1
+    21300004: lace2_2
+    21300006: lace2_3
+    21300008: lace2_4
+    21300010: lace2_5
+    21300012: lace2_6
+    21300014: lace2_7
+    21300016: lace2_8
+    21300018: lace2_9
+    21300020: lace2_10
+    21300022: lace2_11
+    21300024: lace2_12
+    21300026: lace2_13
+    21300028: lace2_14
+    21300030: lace2_15
+    21300032: lace2_16
+    21300034: lace2_17
+    21300036: lace2_18
+    21300038: lace2_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lace2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1646
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1646
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1646
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_3
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1646
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_4
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1646
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1244
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1244
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1244
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_8
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1244
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_9
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1244
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 842
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 842
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_12
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 842
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_13
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 842
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_14
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 842
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 440
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 440
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 440
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_18
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 440
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lace2_19
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 440
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

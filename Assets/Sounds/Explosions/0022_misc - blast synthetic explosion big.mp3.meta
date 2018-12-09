@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/Explosions/0022_misc - blast synthetic explosion big.mp3.meta
+guid: 239c2819d4773234c8b7932749e05b53
+timeCreated: 1434438998
+=======
+guid: 9e4ac040e67e20c4cac45896dcedde16
+timeCreated: 1434438301
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/Explosions/0022_misc - blast synthetic explosion big.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

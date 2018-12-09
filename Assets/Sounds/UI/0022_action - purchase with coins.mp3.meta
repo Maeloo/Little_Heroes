@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/UI/0022_action - purchase with coins.mp3.meta
+guid: 3f4458edbd742c441a0acf1180749745
+timeCreated: 1434439003
+=======
+guid: 66c6523ead4ec21409dbaa23a0f99a1c
+timeCreated: 1434438294
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/UI/0022_action - purchase with coins.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

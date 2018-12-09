@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: dmg3.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:690d822fc90007ef62d4478bc60d5186:adf1fd99c3832f546839301050ce8409:0b454879362b20fea0d34fe4cec7845b$
+#
+
+trou_carcasse2_HD_00000;2;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00001;218;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00002;434;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00003;650;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00004;866;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00005;1082;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00006;1298;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00007;1514;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00008;1730;1646;214;400;0.5;0.5
+trou_carcasse2_HD_00009;2;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00010;218;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00011;434;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00012;650;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00013;866;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00014;1082;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00015;1298;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00016;1514;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00017;1730;1244;214;400;0.5;0.5
+trou_carcasse2_HD_00018;2;842;214;400;0.5;0.5
+trou_carcasse2_HD_00019;218;842;214;400;0.5;0.5
+trou_carcasse2_HD_00020;434;842;214;400;0.5;0.5
+trou_carcasse2_HD_00021;650;842;214;400;0.5;0.5
+trou_carcasse2_HD_00022;866;842;214;400;0.5;0.5
+trou_carcasse2_HD_00023;1082;842;214;400;0.5;0.5
+trou_carcasse2_HD_00024;1298;842;214;400;0.5;0.5

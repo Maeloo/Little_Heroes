@@ -1,0 +1,11 @@
+<obj_root>
+	<objective id="0" type="info" reward="0">
+		<message>Une vague d'ennemis approche !</message>
+		<event num="1"/>
+	</objective>
+
+	<objective id="1" type="active" reward="50">
+		<message>La salle des machines a pris feu !</message>
+		<event num="2"/>
+	</objective>
+</obj_root>

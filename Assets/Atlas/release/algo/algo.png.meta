@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 725b62df9b509a14e935cb2bcc129cbf
+timeCreated: 1433765452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: algo_0
+    21300002: algo_1
+    21300004: algo_2
+    21300006: algo_3
+    21300008: algo_4
+    21300010: algo_5
+    21300012: algo_6
+    21300014: algo_7
+    21300016: algo_8
+    21300018: algo_9
+    21300020: algo_10
+    21300022: algo_11
+    21300024: algo_12
+    21300026: algo_13
+    21300028: algo_14
+    21300030: algo_15
+    21300032: algo_16
+    21300034: algo_17
+    21300036: algo_18
+    21300038: algo_19
+    21300040: algo_20
+    21300042: algo_21
+    21300044: algo_22
+    21300046: algo_23
+    21300048: algo_24
+    21300050: algo_25
+    21300052: algo_26
+    21300054: algo_27
+    21300056: algo_28
+    21300058: algo_29
+    21300060: algo_30
+    21300062: algo_31
+    21300064: algo_32
+    21300066: algo_33
+    21300068: algo_34
+    21300070: algo_35
+    21300072: algo_36
+    21300074: algo_37
+    21300076: algo_38
+    21300078: algo_39
+    21300080: algo_40
+    21300082: algo_41
+    21300084: algo_42
+    21300086: algo_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: algo_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1871
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1871
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_2
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1871
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_3
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1871
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1694
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1694
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1694
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_7
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1694
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1517
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1517
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_10
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1517
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_11
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1517
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1340
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1340
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_14
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1340
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_15
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1340
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1163
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1163
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_18
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1163
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_19
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1163
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 986
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 986
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_22
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 986
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_23
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 986
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 809
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 809
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_26
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 809
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_27
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 809
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 632
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 632
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_30
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 632
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_31
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 632
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 455
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 455
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_34
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 455
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_35
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 455
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 278
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 278
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_38
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 278
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_39
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 278
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 101
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_42
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 101
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: algo_43
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 101
+        width: 500
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

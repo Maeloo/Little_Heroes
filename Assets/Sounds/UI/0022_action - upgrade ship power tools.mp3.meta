@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/UI/0022_action - upgrade ship power tools.mp3.meta
+guid: 694259b0a463f694d9186cac06474d70
+timeCreated: 1434439010
+=======
+guid: 1f6bf4d007f60d1419e7ae1f89728bcd
+timeCreated: 1434438285
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/UI/0022_action - upgrade ship power tools.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

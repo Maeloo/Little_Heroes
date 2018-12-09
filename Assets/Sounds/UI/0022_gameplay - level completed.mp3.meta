@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/UI/0022_gameplay - level completed.mp3.meta
+guid: 3f67feefbf952554f868798d5e5fc59a
+timeCreated: 1434439003
+=======
+guid: f50efb96a974e9d4dad44740b952bef3
+timeCreated: 1434438311
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/UI/0022_gameplay - level completed.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

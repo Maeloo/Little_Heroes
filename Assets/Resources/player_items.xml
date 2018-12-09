@@ -1,0 +1,49 @@
+<!-- Player's items descriptor -->
+<items_root version="0">
+	<!-- Head's items -->
+	<head>
+		<item id="0" name="Classic Head" icon="" lock="false">head</item>
+	</head>
+
+	<!-- Eye's items -->
+	<eye>
+		<item id="0" name="Classic Eye" icon="" lock="false">eye</item>
+	</eye>
+
+	<!-- Body's items -->
+	<body>
+		<item id="0" name="BASE" icon="base" lock="false">base</item>
+		<item id="1" name="MEGA RUNNER"  icon="megarunner" lock="false">megarunner</item>
+		<item id="3" name="SCOOTER" icon="scooter" lock="false">scooter</item>
+	</body>
+
+	<!-- Helmet's items -->
+	<helmet>
+		<item id="0" name="Classic Helmet" icon="" lock="false">helmet</item>
+	</helmet>
+
+	<!-- Power's items -->
+	<power>
+		<item id="0" name="FORCE" icon="force" lock="false">force</item>
+		<item id="1" name="ELEC" icon="elec" lock="false">elec</item>
+		<item id="2" name="PLASMA" icon="plasma" lock="false">plasma</item>
+		<item id="3" name="ICE" icon="ice" lock="false">ice</item>
+	</power>
+
+	<!-- Accessory's items -->
+	<acc>
+		<item id="0" name="EMPTY" icon="empty" lock="false">empty</item>
+		<item id="1" name="LASER" icon="laser" lock="false">laser</item>
+		<item id="2" name="BIONIQUE" icon="bionique" lock="false">bionique</item>
+	</acc>
+	
+	<!--- Color's items -->
+	<color>
+		<item id="0" name="BLANC"  hex="ffffff" lock="false">ffffff</item>
+		<item id="1" name="GRIS"  hex="7f90a3" lock="false">7f90a3</item>
+		<item id="2" name="ROUGE" hex="ed403c" lock="false">ed403c</item>
+		<item id="3" name="JAUNE" hex="edc252" lock="false">edc252</item>
+		<item id="4" name="BLEU"  hex="dfe2fa" lock="false">dfe2fa</item>
+		<item id="5" name="VERT"  hex="c5f4c8" lock="false">c5f4c8</item>
+	</color>
+</items_root>

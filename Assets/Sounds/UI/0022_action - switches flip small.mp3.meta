@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/UI/0022_action - switches flip small.mp3.meta
+guid: 68a8edbf053de7b4e86fdf6803a79804
+timeCreated: 1434439010
+=======
+guid: 17592508969a129419bba5b3edddb904
+timeCreated: 1434438284
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/UI/0022_action - switches flip small.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

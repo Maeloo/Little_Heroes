@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: fa480291126baf743a416a572098467d
+timeCreated: 1433767596
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sapce_map_0
+    21300002: sapce_map_1
+    21300004: sapce_map_2
+    21300006: sapce_map_3
+    21300008: sapce_map_4
+    21300010: sapce_map_5
+    21300012: sapce_map_6
+    21300014: sapce_map_7
+    21300016: sapce_map_8
+    21300018: sapce_map_9
+    21300020: sapce_map_10
+    21300022: sapce_map_11
+    21300024: sapce_map_12
+    21300026: sapce_map_13
+    21300028: sapce_map_14
+    21300030: sapce_map_15
+    21300032: sapce_map_16
+    21300034: sapce_map_17
+    21300036: sapce_map_18
+    21300038: sapce_map_19
+    21300040: sapce_map_20
+    21300042: sapce_map_21
+    21300044: sapce_map_22
+    21300046: sapce_map_23
+    21300048: sapce_map_24
+    21300050: sapce_map_25
+    21300052: sapce_map_26
+    21300054: sapce_map_27
+    21300056: sapce_map_28
+    21300058: sapce_map_29
+    21300060: sapce_map_30
+    21300062: sapce_map_31
+    21300064: sapce_map_32
+    21300066: sapce_map_33
+    21300068: sapce_map_34
+    21300070: sapce_map_35
+    21300072: sapce_map_36
+    21300074: sapce_map_37
+    21300076: sapce_map_38
+    21300078: sapce_map_39
+    21300080: sapce_map_40
+    21300082: sapce_map_41
+    21300084: sapce_map_42
+    21300086: sapce_map_43
+    21300088: sapce_map_44
+    21300090: sapce_map_45
+    21300092: sapce_map_46
+    21300094: sapce_map_47
+    21300096: sapce_map_48
+    21300098: sapce_map_49
+    21300100: sapce_map_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sapce_map_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1844
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1844
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1844
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1844
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_4
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1844
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_5
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1844
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1640
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1640
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_8
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1640
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1640
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_10
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1640
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_11
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1640
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1436
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1436
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1436
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1436
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_16
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1436
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_17
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1436
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1232
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1232
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1232
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1232
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_22
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1232
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_23
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1232
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1028
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1028
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1028
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1028
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_28
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1028
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_29
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1028
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 824
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 824
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_32
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 824
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_33
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 824
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_34
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 824
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_35
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 824
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 620
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 620
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_38
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 620
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 620
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_40
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 620
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_41
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 620
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 416
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_44
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 416
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_45
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 416
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_46
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 416
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_47
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 416
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sapce_map_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 296
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

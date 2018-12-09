@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: 5e67c5df30194e140a4696df6796698e
+timeCreated: 1433772525
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: glace_0
+    21300002: glace_1
+    21300004: glace_2
+    21300006: glace_3
+    21300008: glace_4
+    21300010: glace_5
+    21300012: glace_6
+    21300014: glace_7
+    21300016: glace_8
+    21300018: glace_9
+    21300020: glace_10
+    21300022: glace_11
+    21300024: glace_12
+    21300026: glace_13
+    21300028: glace_14
+    21300030: glace_15
+    21300032: glace_16
+    21300034: glace_17
+    21300036: glace_18
+    21300038: glace_19
+    21300040: glace_20
+    21300042: glace_21
+    21300044: glace_22
+    21300046: glace_23
+    21300048: glace_24
+    21300050: glace_25
+    21300052: glace_26
+    21300054: glace_27
+    21300056: glace_28
+    21300058: glace_29
+    21300060: glace_30
+    21300062: glace_31
+    21300064: glace_32
+    21300066: glace_33
+    21300068: glace_34
+    21300070: glace_35
+    21300072: glace_36
+    21300074: glace_37
+    21300076: glace_38
+    21300078: glace_39
+    21300080: glace_40
+    21300082: glace_41
+    21300084: glace_42
+    21300086: glace_43
+    21300088: glace_44
+    21300090: glace_45
+    21300092: glace_46
+    21300094: glace_47
+    21300096: glace_48
+    21300098: glace_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: glace_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_5
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_6
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_7
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_12
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_13
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_14
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_15
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_20
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_21
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_22
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_23
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_28
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_29
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_30
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_31
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1048
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_33
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_35
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_36
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_37
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_38
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_39
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 798
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_42
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_44
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_45
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_46
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_47
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 548
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glace_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 298
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

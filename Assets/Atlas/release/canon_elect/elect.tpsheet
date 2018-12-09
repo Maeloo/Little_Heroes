@@ -1,0 +1,60 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: elect.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:b36db4e7e1e05db2180f5b36b23c560f:bd04990c9b96322651790b9783a4e31d:445c262aa8559141e9d130c62c6d2dfb$
+#
+
+canon_electric_BD_00000;2;1798;248;248;0.5;0.5
+canon_electric_BD_00001;252;1798;248;248;0.5;0.5
+canon_electric_BD_00002;502;1798;248;248;0.5;0.5
+canon_electric_BD_00003;752;1798;248;248;0.5;0.5
+canon_electric_BD_00004;1002;1798;248;248;0.5;0.5
+canon_electric_BD_00005;1252;1798;248;248;0.5;0.5
+canon_electric_BD_00006;1502;1798;248;248;0.5;0.5
+canon_electric_BD_00007;1752;1798;248;248;0.5;0.5
+canon_electric_BD_00008;2;1548;248;248;0.5;0.5
+canon_electric_BD_00009;252;1548;248;248;0.5;0.5
+canon_electric_BD_00010;502;1548;248;248;0.5;0.5
+canon_electric_BD_00011;752;1548;248;248;0.5;0.5
+canon_electric_BD_00012;1002;1548;248;248;0.5;0.5
+canon_electric_BD_00013;1252;1548;248;248;0.5;0.5
+canon_electric_BD_00014;1502;1548;248;248;0.5;0.5
+canon_electric_BD_00015;1752;1548;248;248;0.5;0.5
+canon_electric_BD_00016;2;1298;248;248;0.5;0.5
+canon_electric_BD_00017;252;1298;248;248;0.5;0.5
+canon_electric_BD_00018;502;1298;248;248;0.5;0.5
+canon_electric_BD_00019;752;1298;248;248;0.5;0.5
+canon_electric_BD_00020;1002;1298;248;248;0.5;0.5
+canon_electric_BD_00021;1252;1298;248;248;0.5;0.5
+canon_electric_BD_00022;1502;1298;248;248;0.5;0.5
+canon_electric_BD_00023;1752;1298;248;248;0.5;0.5
+canon_electric_BD_00024;2;1048;248;248;0.5;0.5
+canon_electric_BD_00025;252;1048;248;248;0.5;0.5
+canon_electric_BD_00026;502;1048;248;248;0.5;0.5
+canon_electric_BD_00027;752;1048;248;248;0.5;0.5
+canon_electric_BD_00028;1002;1048;248;248;0.5;0.5
+canon_electric_BD_00029;1252;1048;248;248;0.5;0.5
+canon_electric_BD_00030;1502;1048;248;248;0.5;0.5
+canon_electric_BD_00031;1752;1048;248;248;0.5;0.5
+canon_electric_BD_00032;2;798;248;248;0.5;0.5
+canon_electric_BD_00033;252;798;248;248;0.5;0.5
+canon_electric_BD_00034;502;798;248;248;0.5;0.5
+canon_electric_BD_00035;752;798;248;248;0.5;0.5
+canon_electric_BD_00036;1002;798;248;248;0.5;0.5
+canon_electric_BD_00037;1252;798;248;248;0.5;0.5
+canon_electric_BD_00038;1502;798;248;248;0.5;0.5
+canon_electric_BD_00039;1752;798;248;248;0.5;0.5
+canon_electric_BD_00040;2;548;248;248;0.5;0.5
+canon_electric_BD_00041;252;548;248;248;0.5;0.5
+canon_electric_BD_00042;502;548;248;248;0.5;0.5
+canon_electric_BD_00043;752;548;248;248;0.5;0.5
+canon_electric_BD_00044;1002;548;248;248;0.5;0.5
+canon_electric_BD_00045;1252;548;248;248;0.5;0.5
+canon_electric_BD_00046;1502;548;248;248;0.5;0.5
+canon_electric_BD_00047;1752;548;248;248;0.5;0.5
+canon_electric_BD_00048;2;298;248;248;0.5;0.5
+canon_electric_BD_00049;252;298;248;248;0.5;0.5

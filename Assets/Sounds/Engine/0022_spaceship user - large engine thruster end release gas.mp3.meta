@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/Engine/0022_spaceship user - large engine thruster end release gas.mp3.meta
+guid: 3d579c05d4e24064b97c28f6341d1862
+timeCreated: 1434439002
+=======
+guid: 374522fbc455fd7498c773f685ecd297
+timeCreated: 1434438289
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/Engine/0022_spaceship user - large engine thruster end release gas.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

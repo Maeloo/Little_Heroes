@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/Weapons/0022_spaceship user - missile fire 1.mp3.meta
+guid: 7f54b4fe63831b24a98333e27a2ac1f4
+timeCreated: 1434439013
+=======
+guid: 577c474d9bf9792409f269f4af02f4f8
+timeCreated: 1434438292
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/Weapons/0022_spaceship user - missile fire 1.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

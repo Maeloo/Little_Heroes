@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/UI/0022_spaceship user - int. cockpit alarm medium pitched (loop).mp3.meta
+guid: d3d4cec935ea19a469569f1e19aa0fa6
+timeCreated: 1434439028
+=======
+guid: 33e4af88019d6f248aedb95fe0448942
+timeCreated: 1434438288
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/UI/0022_spaceship user - int. cockpit alarm medium pitched (loop).mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

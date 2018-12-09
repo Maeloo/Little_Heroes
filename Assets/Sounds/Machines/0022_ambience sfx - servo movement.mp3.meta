@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sounds/Machines/0022_ambience sfx - servo movement.mp3.meta
+guid: 50cc66665c809bf4f9c6fbd8ecd26443
+timeCreated: 1434439006
+=======
+guid: bc1e7da21ae3220409ae45ad281ec940
+timeCreated: 1434438304
+>>>>>>> ac48aa152f6554b73e125934afb3311422d5e981:Assets/Sounds/Machines/0022_ambience sfx - servo movement.mp3.meta
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: plasma.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:aea7a66e81db798a56bf0818fa4af85c:59c5cb6c6f29e526c025a2341e4162b9:f0b5fd27b01df32ac62befbecd113fd0$
+#
+
+canon_plasma_BD_00000;2;1798;186;248;0.5;0.5
+canon_plasma_BD_00001;190;1798;186;248;0.5;0.5
+canon_plasma_BD_00002;378;1798;186;248;0.5;0.5
+canon_plasma_BD_00003;566;1798;186;248;0.5;0.5
+canon_plasma_BD_00004;754;1798;186;248;0.5;0.5
+canon_plasma_BD_00005;942;1798;186;248;0.5;0.5
+canon_plasma_BD_00006;1130;1798;186;248;0.5;0.5
+canon_plasma_BD_00007;1318;1798;186;248;0.5;0.5
+canon_plasma_BD_00008;1506;1798;186;248;0.5;0.5
+canon_plasma_BD_00009;1694;1798;186;248;0.5;0.5
+canon_plasma_BD_00010;2;1548;186;248;0.5;0.5
+canon_plasma_BD_00011;190;1548;186;248;0.5;0.5
+canon_plasma_BD_00012;378;1548;186;248;0.5;0.5
+canon_plasma_BD_00013;566;1548;186;248;0.5;0.5
+canon_plasma_BD_00014;754;1548;186;248;0.5;0.5
+canon_plasma_BD_00015;942;1548;186;248;0.5;0.5
+canon_plasma_BD_00016;1130;1548;186;248;0.5;0.5
+canon_plasma_BD_00017;1318;1548;186;248;0.5;0.5
+canon_plasma_BD_00018;1506;1548;186;248;0.5;0.5
+canon_plasma_BD_00019;1694;1548;186;248;0.5;0.5
+canon_plasma_BD_00020;2;1298;186;248;0.5;0.5
+canon_plasma_BD_00021;190;1298;186;248;0.5;0.5
+canon_plasma_BD_00022;378;1298;186;248;0.5;0.5
+canon_plasma_BD_00023;566;1298;186;248;0.5;0.5
+canon_plasma_BD_00024;754;1298;186;248;0.5;0.5
+canon_plasma_BD_00025;942;1298;186;248;0.5;0.5
+canon_plasma_BD_00026;1130;1298;186;248;0.5;0.5
+canon_plasma_BD_00027;1318;1298;186;248;0.5;0.5
+canon_plasma_BD_00028;1506;1298;186;248;0.5;0.5
+canon_plasma_BD_00029;1694;1298;186;248;0.5;0.5
+canon_plasma_BD_00030;2;1048;186;248;0.5;0.5
+canon_plasma_BD_00031;190;1048;186;248;0.5;0.5
+canon_plasma_BD_00032;378;1048;186;248;0.5;0.5
+canon_plasma_BD_00033;566;1048;186;248;0.5;0.5
+canon_plasma_BD_00034;754;1048;186;248;0.5;0.5
+canon_plasma_BD_00035;942;1048;186;248;0.5;0.5
+canon_plasma_BD_00036;1130;1048;186;248;0.5;0.5
+canon_plasma_BD_00037;1318;1048;186;248;0.5;0.5
+canon_plasma_BD_00038;1506;1048;186;248;0.5;0.5
+canon_plasma_BD_00039;1694;1048;186;248;0.5;0.5
+canon_plasma_BD_00040;2;798;186;248;0.5;0.5
+canon_plasma_BD_00041;190;798;186;248;0.5;0.5
+canon_plasma_BD_00042;378;798;186;248;0.5;0.5
+canon_plasma_BD_00043;566;798;186;248;0.5;0.5
+canon_plasma_BD_00044;754;798;186;248;0.5;0.5
+canon_plasma_BD_00045;942;798;186;248;0.5;0.5
+canon_plasma_BD_00046;1130;798;186;248;0.5;0.5
+canon_plasma_BD_00047;1318;798;186;248;0.5;0.5
+canon_plasma_BD_00048;1506;798;186;248;0.5;0.5
+canon_plasma_BD_00049;1694;798;186;248;0.5;0.5

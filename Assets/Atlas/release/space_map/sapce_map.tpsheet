@@ -1,0 +1,60 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: sapce_map.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:85847d1939178cde043c8f814f6c27b6:76e48d113abad03e75b2e14e8de4751e:56500b8046fdb2d886706e1b77677233$
+#
+
+interieur_vaisseau_carte_00000;2;1844;296;202;0.5;0.5
+interieur_vaisseau_carte_00001;300;1844;296;202;0.5;0.5
+interieur_vaisseau_carte_00002;598;1844;296;202;0.5;0.5
+interieur_vaisseau_carte_00003;896;1844;296;202;0.5;0.5
+interieur_vaisseau_carte_00004;1194;1844;296;202;0.5;0.5
+interieur_vaisseau_carte_00005;1492;1844;296;202;0.5;0.5
+interieur_vaisseau_carte_00006;2;1640;296;202;0.5;0.5
+interieur_vaisseau_carte_00007;300;1640;296;202;0.5;0.5
+interieur_vaisseau_carte_00008;598;1640;296;202;0.5;0.5
+interieur_vaisseau_carte_00009;896;1640;296;202;0.5;0.5
+interieur_vaisseau_carte_00010;1194;1640;296;202;0.5;0.5
+interieur_vaisseau_carte_00011;1492;1640;296;202;0.5;0.5
+interieur_vaisseau_carte_00012;2;1436;296;202;0.5;0.5
+interieur_vaisseau_carte_00013;300;1436;296;202;0.5;0.5
+interieur_vaisseau_carte_00014;598;1436;296;202;0.5;0.5
+interieur_vaisseau_carte_00015;896;1436;296;202;0.5;0.5
+interieur_vaisseau_carte_00016;1194;1436;296;202;0.5;0.5
+interieur_vaisseau_carte_00017;1492;1436;296;202;0.5;0.5
+interieur_vaisseau_carte_00018;2;1232;296;202;0.5;0.5
+interieur_vaisseau_carte_00019;300;1232;296;202;0.5;0.5
+interieur_vaisseau_carte_00020;598;1232;296;202;0.5;0.5
+interieur_vaisseau_carte_00021;896;1232;296;202;0.5;0.5
+interieur_vaisseau_carte_00022;1194;1232;296;202;0.5;0.5
+interieur_vaisseau_carte_00023;1492;1232;296;202;0.5;0.5
+interieur_vaisseau_carte_00024;2;1028;296;202;0.5;0.5
+interieur_vaisseau_carte_00025;300;1028;296;202;0.5;0.5
+interieur_vaisseau_carte_00026;598;1028;296;202;0.5;0.5
+interieur_vaisseau_carte_00027;896;1028;296;202;0.5;0.5
+interieur_vaisseau_carte_00028;1194;1028;296;202;0.5;0.5
+interieur_vaisseau_carte_00029;1492;1028;296;202;0.5;0.5
+interieur_vaisseau_carte_00030;2;824;296;202;0.5;0.5
+interieur_vaisseau_carte_00031;300;824;296;202;0.5;0.5
+interieur_vaisseau_carte_00032;598;824;296;202;0.5;0.5
+interieur_vaisseau_carte_00033;896;824;296;202;0.5;0.5
+interieur_vaisseau_carte_00034;1194;824;296;202;0.5;0.5
+interieur_vaisseau_carte_00035;1492;824;296;202;0.5;0.5
+interieur_vaisseau_carte_00036;2;620;296;202;0.5;0.5
+interieur_vaisseau_carte_00037;300;620;296;202;0.5;0.5
+interieur_vaisseau_carte_00038;598;620;296;202;0.5;0.5
+interieur_vaisseau_carte_00039;896;620;296;202;0.5;0.5
+interieur_vaisseau_carte_00040;1194;620;296;202;0.5;0.5
+interieur_vaisseau_carte_00041;1492;620;296;202;0.5;0.5
+interieur_vaisseau_carte_00042;2;416;296;202;0.5;0.5
+interieur_vaisseau_carte_00043;300;416;296;202;0.5;0.5
+interieur_vaisseau_carte_00044;598;416;296;202;0.5;0.5
+interieur_vaisseau_carte_00045;896;416;296;202;0.5;0.5
+interieur_vaisseau_carte_00046;1194;416;296;202;0.5;0.5
+interieur_vaisseau_carte_00047;1492;416;296;202;0.5;0.5
+interieur_vaisseau_carte_00048;2;212;296;202;0.5;0.5
+interieur_vaisseau_carte_00049;300;212;296;202;0.5;0.5

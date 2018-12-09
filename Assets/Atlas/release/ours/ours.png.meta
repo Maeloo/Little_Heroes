@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: 854bc9f82ff1915419258fbe9965f415
+timeCreated: 1434469443
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ours_0
+    21300002: ours_1
+    21300004: ours_2
+    21300006: ours_3
+    21300008: ours_4
+    21300010: ours_5
+    21300012: ours_6
+    21300014: ours_7
+    21300016: ours_8
+    21300018: ours_9
+    21300020: ours_10
+    21300022: ours_11
+    21300024: ours_12
+    21300026: ours_13
+    21300028: ours_14
+    21300030: ours_15
+    21300032: ours_16
+    21300034: ours_17
+    21300036: ours_18
+    21300038: ours_19
+    21300040: ours_20
+    21300042: ours_21
+    21300044: ours_22
+    21300046: ours_23
+    21300048: ours_24
+    21300050: ours_25
+    21300052: ours_26
+    21300054: ours_27
+    21300056: ours_28
+    21300058: ours_29
+    21300060: ours_30
+    21300062: ours_31
+    21300064: ours_32
+    21300066: ours_33
+    21300068: ours_34
+    21300070: ours_35
+    21300072: ours_36
+    21300074: ours_37
+    21300076: ours_38
+    21300078: ours_39
+    21300080: ours_40
+    21300082: ours_41
+    21300084: ours_42
+    21300086: ours_43
+    21300088: ours_44
+    21300090: ours_45
+    21300092: ours_46
+    21300094: ours_47
+    21300096: ours_48
+    21300098: ours_49
+    21300100: ours_50
+    21300102: ours_51
+    21300104: ours_52
+    21300106: ours_53
+    21300108: ours_54
+    21300110: ours_55
+    21300112: ours_56
+    21300114: ours_57
+    21300116: ours_58
+    21300118: ours_59
+    21300120: ours_60
+    21300122: ours_61
+    21300124: ours_62
+    21300126: ours_63
+    21300128: ours_64
+    21300130: ours_65
+    21300132: ours_66
+    21300134: ours_67
+    21300136: ours_68
+    21300138: ours_69
+    21300140: ours_70
+    21300142: ours_71
+    21300144: ours_72
+    21300146: ours_73
+    21300148: ours_74
+    21300150: ours_75
+    21300152: ours_76
+    21300154: ours_77
+    21300156: ours_78
+    21300158: ours_79
+    21300160: ours_80
+    21300162: ours_81
+    21300164: ours_82
+    21300166: ours_83
+    21300168: ours_84
+    21300170: ours_85
+    21300172: ours_86
+    21300174: ours_87
+    21300176: ours_88
+    21300178: ours_89
+    21300180: ours_90
+    21300182: ours_91
+    21300184: ours_92
+    21300186: ours_93
+    21300188: ours_94
+    21300190: ours_95
+    21300192: ours_96
+    21300194: ours_97
+    21300196: ours_98
+    21300198: ours_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ours_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_5
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_6
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_7
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_8
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_9
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1857
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_15
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_16
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_17
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_18
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_19
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1666
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_23
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_25
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_26
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_27
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_28
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_29
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1475
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_35
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_36
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_37
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_38
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_39
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1284
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_42
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_44
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_45
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_46
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_47
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_48
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_49
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1093
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_52
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_54
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_55
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_56
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_57
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_58
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_59
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 902
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_63
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_64
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_65
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_66
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_67
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_68
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_69
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 711
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_72
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_73
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_74
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_75
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_76
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_77
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_78
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_79
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 520
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_81
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_82
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_83
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_84
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_85
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_86
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_87
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_88
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_89
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 329
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_91
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 138
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_92
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 138
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_93
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 138
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 138
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_95
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 138
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours_96
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 138
+        width: 200
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

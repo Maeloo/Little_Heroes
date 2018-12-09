@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="poster_vaisseau_int_little_heroes_2" size="1.000000 1.415907" />
+    <ImageTarget name="poster_grande_ourse_3" size="1.000000 1.415907" />
+    <ImageTarget name="autocollant_scan_item" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

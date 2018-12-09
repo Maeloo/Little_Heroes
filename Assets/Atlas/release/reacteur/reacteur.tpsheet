@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: reacteur.png (512 x 512)
+# $TexturePacker:SmartUpdate:ebf1daeadb23c00b5c28bed56e99ce49:647984c4e7e80939839aca20876ae4d0:16aae1be7c096a7e28e786664517b919$
+#
+
+reacteur_HD_00000;2;365;250;145;0.5;0.5
+reacteur_HD_00001;2;365;250;145;0.5;0.5
+reacteur_HD_00002;254;365;250;145;0.5;0.5
+reacteur_HD_00003;254;365;250;145;0.5;0.5
+reacteur_HD_00004;2;218;250;145;0.5;0.5
+reacteur_HD_00005;2;218;250;145;0.5;0.5
+reacteur_HD_00006;254;218;250;145;0.5;0.5
+reacteur_HD_00007;254;218;250;145;0.5;0.5
+reacteur_HD_00008;2;71;250;145;0.5;0.5
+reacteur_HD_00009;2;71;250;145;0.5;0.5
+reacteur_HD_00010;254;71;250;145;0.5;0.5
+reacteur_HD_00011;254;71;250;145;0.5;0.5
+reacteur_HD_00012;254;71;250;145;0.5;0.5
+reacteur_HD_00013;254;71;250;145;0.5;0.5
+reacteur_HD_00014;254;71;250;145;0.5;0.5
+reacteur_HD_00015;254;71;250;145;0.5;0.5
+reacteur_HD_00016;254;71;250;145;0.5;0.5
+reacteur_HD_00017;254;71;250;145;0.5;0.5
+reacteur_HD_00018;254;71;250;145;0.5;0.5
+reacteur_HD_00019;254;71;250;145;0.5;0.5

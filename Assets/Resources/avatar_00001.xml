@@ -1,0 +1,22 @@
+<!-- Avatar descriptor -->
+<avatar_root>
+  <!-- Player's name -->
+  <name>Maeloo</name>
+  <!-- Avatar's head -->
+  <head x="0" y="0.4" component="">head</head>
+  <!-- Avatar's eye -->
+  <eyes x="0" y="0" component="">
+    <left_eye x="-0.3" y="0.6" component="">eye</left_eye>
+    <right_eye x="0.3" y="0.6" component="">eye</right_eye>
+  </eyes>
+  <!-- Avatar's body -->
+  <body x="0" y="-1" component="">base</body>
+  <!-- Avatar's helmet -->
+  <helmet x="0" y="1.2" component="">helmet</helmet>
+  <!-- Avatar's accessory -->
+  <acc x="0" y="0" component="">empty</acc>
+  <!-- Power's accessory -->
+  <power>elec</power>
+  <!--- Color's body-->
+  <color>dfe2fa</color>
+</avatar_root>

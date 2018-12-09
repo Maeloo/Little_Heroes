@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: fe1efd7b1d67a454e82d611fff088f1c
+timeCreated: 1432909909
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: en_elec_0
+    21300002: en_elec_1
+    21300004: en_elec_2
+    21300006: en_elec_3
+    21300008: en_elec_4
+    21300010: en_elec_5
+    21300012: en_elec_6
+    21300014: en_elec_7
+    21300016: en_elec_8
+    21300018: en_elec_9
+    21300020: en_elec_10
+    21300022: en_elec_11
+    21300024: en_elec_12
+    21300026: en_elec_13
+    21300028: en_elec_14
+    21300030: en_elec_15
+    21300032: en_elec_16
+    21300034: en_elec_17
+    21300036: en_elec_18
+    21300038: en_elec_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: en_elec_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 898
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 898
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 898
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 898
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 772
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 772
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 772
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 772
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 646
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 646
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 646
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 646
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 520
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 520
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 520
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 520
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 394
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 394
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 394
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: en_elec_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 394
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
